@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "osalysmod:blocks/smelter_4",
+    "particle": "osalysmod:blocks/smelter_4"
+  }
+}
